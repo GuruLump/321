@@ -397,7 +397,7 @@ namespace Calculator {
 			this->button20->ForeColor = System::Drawing::SystemColors::ButtonHighlight;
 			this->button20->Location = System::Drawing::Point(9, 378);
 			this->button20->Name = L"button20";
-			this->button20->Size = System::Drawing::Size(136, 65);
+			this->button20->Size = System::Drawing::Size(136, 66);
 			this->button20->TabIndex = 18;
 			this->button20->Text = L"0";
 			this->button20->UseVisualStyleBackColor = false;
